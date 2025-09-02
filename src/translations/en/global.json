@@ -1,10 +1,4 @@
 {
-    "header": {
-        "message": "Welcome to PaymonSwap"
-    },
-    "home": {
-        "body": "Swap Paymon with USDT"
-    },
     "swap": "Swap",
     "connect": "Connect",
     "disconnect": "Disconnect",
@@ -15,7 +9,7 @@
     "currentPrice": "Current price",
     "taxRate": "Tax Rate",
     "swapButton": "Swap",
-    "dexname": "Swap",
+    "dexname": "Swap(Test)",
     "en": "EN",
     "fa": "FA",
     "You pay": "You pay",
