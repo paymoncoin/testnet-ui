@@ -7,17 +7,17 @@ export const ACTIVE_NETWORK: Network = "testnet";
 // Addresses mapped by network
 export const PAYMON_MINTER_ADDRESS: Record<Network, string> = {
   mainnet: "EQA_Q9VUz3uvJUBEO3YeiRGFB7SjlHmU36F9XMc2_NTjiEUD",
-  testnet: "kQC_JIVVHryhbpXYKuUHpS3APB7saNz3oXK1-OBrmrNKa78_",
+  testnet: "kQCOlpoR9sBZRE8GGHsn2THqOogCzb5k1_NnYrrM4JHZjcz6",
 };
 
 export const USDT_MINTER_ADDRESS: Record<Network, string> = {
   mainnet: "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
-  testnet: "kQD0GKBM8ZbryVk2aESmzfU6b9b_8era_IkvBSELujFZPsyy",
+  testnet: "kQBH5njRX28Yv_7gHg0H1Q9GkrtFOMeCmYUPTUV95caDS5iH",
 };
 
 export const DEX_ADDRESS: Record<Network, string> = {
   mainnet: "EQDIkwXtd98PNiJFN3GoeaYX4DejoeE8H9TOj71z-3P6Tjg_",
-  testnet: "kQBy98-6zjTXgrOhZM6pUDEHPKOgNvKQ6Qu8HA3LaRbSB5rK",
+  testnet: "kQACbGUxBHjG3_uc6cebTmelpsMT6SGThb0i2HzMKpVI2RHU",
 };
 
 // Helper functions
